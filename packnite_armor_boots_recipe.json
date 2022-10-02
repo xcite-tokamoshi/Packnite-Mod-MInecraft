@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "packnite:packnite_ingot"
+    },
+    "2": {
+      "item": "packnite:packnite_ingot"
+    },
+    "3": {
+      "item": "packnite:packnite_ingot"
+    },
+    "5": {
+      "item": "packnite:packnite_ingot"
+    }
+  },
+  "result": {
+    "item": "packnite:packnite_armor_boots",
+    "count": 1
+  }
+}

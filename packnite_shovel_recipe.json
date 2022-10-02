@@ -1,0 +1,24 @@
+{
+  "group": "tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "packnite:packnite_ingot"
+    },
+    "1": {
+      "item": "packnite:packnite_stick"
+    },
+    "2": {
+      "item": "packnite:packnite_stick"
+    }
+  },
+  "result": {
+    "item": "packnite:packnite_shovel",
+    "count": 1
+  }
+}

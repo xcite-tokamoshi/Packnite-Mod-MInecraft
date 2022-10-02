@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "packnite:packnite_block"
+    }
+  ],
+  "result": {
+    "item": "packnite:packnite_ingot",
+    "count": 9
+  }
+}
